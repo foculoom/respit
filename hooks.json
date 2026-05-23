@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "hooks": {
+    "sessionEnd": [
+      {
+        "type": "command",
+        "bash": "if [ \"$(gh repo view --json name -q .name 2>/dev/null)\" = \"respit\" ]; then echo 'What did you make today?'; fi; exit 0",
+        "cwd": ".",
+        "timeoutSec": 15
+      }
+    ]
+  }
+}

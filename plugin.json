@@ -1,0 +1,26 @@
+{
+  "name": "respit",
+  "description": "Personal Copilot CLI plugin \u2014 personal productivity and work-life harmony skills",
+  "version": "1.0.2",
+  "author": {
+    "name": "Foculoom LLC",
+    "url": "https://github.com/foculoom"
+  },
+  "repository": "https://github.com/foculoom/respit",
+  "homepage": "https://github.com/foculoom/respit",
+  "license": "MIT",
+  "keywords": [
+    "respit",
+    "copilot",
+    "personal",
+    "skills"
+  ],
+  "skills": [
+    "skills/energy-check",
+    "skills/ideas",
+    "skills/personal-retro",
+    "skills/project-health",
+    "skills/scope-brake"
+  ],
+  "hooks": "hooks.json"
+}
