@@ -1,3 +1,5 @@
+<img src="assets/respit-icon.png" width="128" alt="respit icon" />
+
 # respit
 
 Personal Copilot CLI plugin for work-life harmony and personal productivity.
