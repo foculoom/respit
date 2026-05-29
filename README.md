@@ -4,7 +4,7 @@
 
 Personal Copilot CLI plugin for work-life harmony and personal productivity.
 
-![Version](https://img.shields.io/badge/version-1.0.2-blue)
+![Version](https://img.shields.io/badge/version-1.0.3-blue)
 
 ## Requirements
 

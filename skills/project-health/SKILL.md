@@ -1,3 +1,9 @@
+---
+name: project-health
+description: Structured project health self-assessment. Surfaces at-risk signals early and prompts a scope-brake check inline when the project needs it.
+tier: basic
+---
+
 # project-health
 
 A structured self-assessment of your project's current state. Surfaces at-risk signals early and prompts a scope-brake check inline when the project needs it.

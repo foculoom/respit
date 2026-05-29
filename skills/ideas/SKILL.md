@@ -1,3 +1,9 @@
+---
+name: ideas
+description: Captures a single idea quickly without interrupting current work. Writes to ideas.md for later triage. Low-friction, no immediate action required.
+tier: basic
+---
+
 # ideas
 
 Captures a single idea so it is not lost and does not interrupt what you are currently doing. Quick, low-friction, no triage.

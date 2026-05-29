@@ -1,3 +1,9 @@
+---
+name: scope-brake
+description: Three-question pause to prevent scope sprawl during active work sessions. Run any time a new idea or distraction arrives mid-task.
+tier: basic
+---
+
 # scope-brake
 
 A three-question pause that keeps creative momentum from accidentally turning into scope sprawl. Run this any time a new idea lands while you are mid-task.
