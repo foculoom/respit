@@ -1,3 +1,9 @@
+---
+name: energy-check
+description: Brief self-assessment of energy and focus state before a session or when stuck. Low-friction check-in with no preparation needed.
+tier: basic
+---
+
 # energy-check
 
 A brief self-assessment to surface how you are feeling about your work right now. Use it before starting a session, when you feel stuck, or whenever you want a low-friction check-in with yourself.

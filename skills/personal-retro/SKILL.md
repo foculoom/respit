@@ -1,3 +1,9 @@
+---
+name: personal-retro
+description: Lightweight solo retrospective for project work. Surfaces what is worth protecting and what is quietly draining you. Writes a dated retro file to retros/.
+tier: basic
+---
+
 # personal-retro
 
 A lightweight retrospective for solo project work. Designed to surface what is worth protecting and what is quietly draining you — without turning reflection into a performance metric.
